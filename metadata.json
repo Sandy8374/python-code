@@ -1,0 +1,6 @@
+{
+  "name": "Python Mastery",
+  "description": "Python Mastery – Learn. Practice. Execute. Master Python. A LeetCode-style coding platform exclusively for Python programming from fundamentals to async, concurrency, and production engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
